@@ -1,5 +1,5 @@
-# Nodejs-Project
-This project was made by using Nodejs technology on Visual Studio IDE with the help of my collegues Priyanshu Rana and Aditya Sharma.
+# Nodejs-Project by Priyanshu Rana
+This project was made by using Nodejs technology on Visual Studio IDE with the help of my collegues Puru Johri and Aditya Sharma.
 
 # Steps
 - Initialize Project
